@@ -1,0 +1,26 @@
+{
+  "name": "nodemailcampaigntool",
+  "version": "1.0.0",
+  "description": "Node mail tool to send campaigns with custom templates and placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranraju/nodeMailCampaignTool.git"
+  },
+  "keywords": [
+    "nodemai",
+    "campaign"
+  ],
+  "author": "Saran Raju Anna Dhurai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranraju/nodeMailCampaignTool/issues"
+  },
+  "homepage": "https://github.com/saranraju/nodeMailCampaignTool#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
