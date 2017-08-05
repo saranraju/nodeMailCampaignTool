@@ -7,7 +7,7 @@ module.exports = {
     production: {
       user: 'ubuntu',
       host: 'ec2-54-89-49-145.compute-1.amazonaws.com',
-      key: 'E:/AWS/saran.pem',
+      key: 'saran.pem',
       ref: 'origin/master',
       repo: 'https://github.com/saranraju/nodeMailCampaignTool.git',
       path: '/home/ubuntu/nodeMailCampaignTool',
